@@ -1,0 +1,47 @@
+
+body{
+    background-color: rgb(246, 248, 213);
+    text-align: center;
+}
+
+header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+    background-color: rgb(20, 7, 124);
+    
+}
+
+header nav li {
+    float: left;
+}
+
+header nav a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+header nav a:hover {
+    background-color:white;
+    color: rgb(20, 7, 124);
+}
+
+footer{
+    background-color: rgb(20, 7, 124);
+    padding: 20px;
+}
+ 
+.course{
+    text-align: start;
+}
+
+.b1{
+text-align: left start;
+}
+.b3{
+    text-align: left start;
+    }
